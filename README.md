@@ -1,1 +1,1 @@
-# script
+ubuntu执行脚本
